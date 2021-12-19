@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to my website Muhammad Rifaldo Saputra!" />
         <p className="description">
           Website by <code> Muhammad Rifaldo Saputra</code>
         </p>
